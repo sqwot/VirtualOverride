@@ -14,6 +14,7 @@ namespace VirtualOverride {
             owner.ReceiveContents(safeContents);
         }
 
+
         internal void WriteDownCombination(string combination) {
             writtenDownCombination = combination;
         }
